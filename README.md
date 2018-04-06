@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+04/02/2018
 
 ### Student Name:  
-(First and Last Name)
+Brianna Danois
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I finished devolping a website for a recipe, by adding interactive animations that respond to user clicks
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bdanois.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that Jquery is a javascript library
+2. I learned how to use functions in the jquery library
+3. I reinforced my understanding of the DOM and how javascript can manipulate it.
 
